@@ -1,0 +1,3 @@
+instances:
+  - secret1: ENC[secret1]
+    secret2: ENC[secret2]
