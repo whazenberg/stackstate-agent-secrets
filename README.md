@@ -6,8 +6,7 @@ Tested on StackState Agent 2.7.0 and Python 2/3.
 ## Secrets executable
 
 ```
-chmod u+x ./secrets.py
-chmod go-r ./secrets.py
+chmod 700 ./secrets.py
 ```
 
 Test:
